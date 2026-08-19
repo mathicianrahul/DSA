@@ -25,4 +25,5 @@ int main() {
   int n = sizeof(arr) / sizeof(int);
 
   cout << binarySearch(arr, n, 14);
+  return 0;
 }
