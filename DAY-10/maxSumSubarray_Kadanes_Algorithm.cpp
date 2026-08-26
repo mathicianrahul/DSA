@@ -26,3 +26,4 @@ int main() {
   int n = sizeof(arr) / sizeof(int);
   SubarraySum3(arr, n);
 }
+// exam period
