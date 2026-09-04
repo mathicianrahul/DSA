@@ -20,4 +20,4 @@ int main(){
     cout<<linearSearch(arr, n, 59)<<endl;
     return 0;
 
-}
+}//changed
